@@ -1,0 +1,27 @@
+{
+  "short_name": "PickMyExam",
+  "name": "PickMyExam",
+  "orientation": "any",
+  "description": "Pick My Exam- Free online competitive exam preparation platform provide competitive exam preparation material, free govt exam study material, and tnpsc free online test",
+  "icons": [
+    {
+      "src": "https://pickmyexam.com/images/favicon/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://pickmyexam.com/images/logo/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://pickmyexam.com/images/logo/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f04406",
+  "background_color": "#ffffff"
+}
